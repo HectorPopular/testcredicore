@@ -1,0 +1,15 @@
+{
+"solicitudADL": "Edwink157-4gb6-0ii9-a121-Recha11aaa508",
+"fechaRadicacion": "2022-05-12T23:02:36.000Z",
+"producto": 727,
+"tipoFlujo": 1,
+"etapaFlujo": 9,
+"canalVenta": 3,
+"oficinaVenta": "040",
+"cedulaFuncionarioRadica": "900971932",
+"tipoIdentificacionCliente": 1,
+"numeroIdentificacionCliente": "172109",
+"nombreCliente": "Mario Andres",
+"apellidosCliente": "Robledo Hernandez",
+"decisionADL": 2
+}
